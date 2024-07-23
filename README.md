@@ -30,7 +30,7 @@ Bull's AI is an advanced stock prediction tool that leverages machine learning a
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/bulls-ai.git
+   git clone [https://github.com/yourusername/bulls-ai.git](https://github.com/Sahil-Bhoite/Bulls-AI
    cd bulls-ai
    ```
 
